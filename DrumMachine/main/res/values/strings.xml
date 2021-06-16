@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DrumMachine - Phillip ***</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="clear_track">Clear Track</string>
+    <string name="bpm">BPM:</string>
+</resources>
